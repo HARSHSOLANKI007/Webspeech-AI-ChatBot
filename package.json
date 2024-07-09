@@ -8,7 +8,7 @@
     "dev": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sajid Ansari",
+  "author": "Harsh Solanki",
   "license": "MIT",
   "dependencies": {
     "@google-cloud/dialogflow": "^3.1.0",
